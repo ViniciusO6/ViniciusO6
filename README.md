@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Vinicius Augusto
+# Vinicius Augusto
 
 **`Desenvolvedor FullStack Web e Mobile`**
 
